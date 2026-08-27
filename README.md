@@ -26,4 +26,4 @@ A simple console calculator application built with C# and .NET.
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.jpeg)
+![Calculator Screenshot](./calculator.jpeg)
